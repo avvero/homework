@@ -2,7 +2,6 @@
 
 ## TODO
 
-- `/info` endpoint
 - concurrency deposit and withdrawal logic
 
 ## TDD
